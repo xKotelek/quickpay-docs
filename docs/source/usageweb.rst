@@ -21,7 +21,6 @@ You can name this Secret Key using random name it's not very important. After cr
 * stripe publishale key - this key is on the same page but it's created automatically you have to click on it's value and it will be automatically copied into your clipboard
 * success payment redirect url - to this url user will be redirected after finishing the payment inside the checkout-box.
 
------------
 Subscribing
 -----------
 
@@ -47,7 +46,6 @@ Stripe Product ID is the product id from `Stripe Product Catalog <https://dashbo
 
 After clicking submit go back to Checkout Buttons Manager and near your button click "Implement" you will get the HTML code inside your clipboard. After pasting the code inside your website you will se the button. Example website is `here <https://quickpay.kotelek.dev/webpay-example>`_. After pressing the button Stripe's Checkout Frame will appear and you can finish the payment.
 
-----------
 Conclusion
 ----------
 
