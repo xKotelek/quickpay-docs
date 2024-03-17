@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'quickpay'
+copyright = '2023-2024, xKotelek'
+author = 'xKotelek'
 
 release = '0.1'
 version = '0.1.0'
