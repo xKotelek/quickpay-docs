@@ -1,2 +1,2 @@
-USAGE WEB
-=========
+Setting up webpayments
+======================
