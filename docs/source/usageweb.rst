@@ -1,4 +1,4 @@
-API
+USAGE WEB
 ===
 
 .. autosummary::
