@@ -8,7 +8,7 @@ Welcome to quickpay documentation!
 * Websites (checkout boxes - comming soon)
 
 Check out the :doc:`quickstart` section for further information, including
-how to :doc:`usageweb` the project on websites or :doc:`usagedc` on discord servers.
+how to :doc:`usageweb` or :doc:`usagedc` on discord servers.
 
 .. note::
 
