@@ -50,7 +50,6 @@ After filling up the information press "Submit" now your product will appear in 
 .. image:: buycmd.png
 .. image:: prodlistadded.png
 
------------------------------------------------
 Optional - Adding Discord Webhook Notifications
 -----------------------------------------------
 
@@ -66,7 +65,6 @@ The webhhook notifications is optional feature and will allow you to get notifie
 
 * user cancels payment or payment got timed out - this works only sometimes so there is no screenshot
 
-----------
 Conclusion
 ----------
 
