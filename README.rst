@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+quickpay docs
+=============
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is a documentation for **https://quickpay.kotelek.dev**
