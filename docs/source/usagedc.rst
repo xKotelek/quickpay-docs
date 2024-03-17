@@ -18,4 +18,5 @@ to `dashboard <https://quickpay.kotelek.dev/dash>`_, click on the guild that you
 Connecting with Stripe API
 --------------------------
 
-To make ``/buy`` command work you have to connect **quickpay** with your Stripe account via **API Key**.
+To make ``/buy`` command work you have to connect **quickpay** with your Stripe account via **API Key**. To do this you have to go on dashboard and pick a guild. Next the first steps configuration will pop up
+.. image:: apikeyenter.png
