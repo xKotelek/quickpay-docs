@@ -68,4 +68,4 @@ The webhhook notifications is optional feature and will allow you to get notifie
 Conclusion
 ----------
 
-You can see that makin server-shop on Discord with **quickpay** is very easy. I will add more things that user can get for money on Discord and I am working hard on finishing **WebPayment Service** which will allow users to create Checkout Buttons with 2 lines of code! (not counting `<script>` element it's only one line!). You can check out how it look right now at :doc:usageweb
+You can see that makin server-shop on Discord with **quickpay** is very easy. I will add more things that user can get for money on Discord and I am working hard on finishing **WebPayment Service** which will allow users to create Checkout Buttons with 2 lines of code! (not counting `<script>` element it's only one line!). You can check out how it look right now at :doc:`usageweb`
